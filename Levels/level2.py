@@ -4,10 +4,10 @@ from Levels.level_utils import build_level
 
 map_data = [
     "XXXXXXXXXXXXXXXXXXXXXXXX",
+    "X..................X...X",
+    "X...X.....P............X",
     "X......................X",
-    "X.........P............X",
-    "X......................X",
-    "X............G.........X",
+    "X.......XX...G.........X",
     "XXXXXXXXXXXXXXXXXXXXXXXX"
 ]
 
